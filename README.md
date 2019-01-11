@@ -11,4 +11,4 @@ data. After that, all graphs were integrated into a page to
 yield a high-quality chart which is Figure 4 (the R script
 we wrote is provided to help those who would like to
 replicate it). Please see our paper "Frequency distributions of
-punctuation marks in English: Evidence from large‐scale corpora" published in English Today.
+punctuation marks in English: Evidence from large‐scale corpora" published in English Today(https://www.cambridge.org/core/journals/english-today/article/frequency-distributions-of-punctuation-marks-in-english/A953C2854729CFB44794CF8883200188).
